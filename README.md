@@ -2,12 +2,6 @@
 
 Here I insert compact coding projects along the way. My goal is to track my progress.
 
-## Features
-
-- Feature one
-- Feature two
-- Feature three
-
 ## Installation
 
 ```bash
