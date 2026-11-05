@@ -26,13 +26,6 @@ for char in password:
 
 if has_digit: score +=2
 
-has_not_alnum = False
-for char in password:
-    if not char.isalnum():
-        has_alnum = True
-
-if has_not_alnum: score +=2
-
 has_symbol = False
 for char in password:
     if not char.isalnum():
